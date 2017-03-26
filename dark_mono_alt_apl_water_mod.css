@@ -655,7 +655,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
   padding: 0;
   width: 160px;
   height: 24px;
-  background: url("http://i.imgur.com/rCmcrvp.png") no-repeat;
+  background: url("https://i.imgur.com/V7cLz3x.png") no-repeat;
   background-size: auto 80%;
 }
 
@@ -705,7 +705,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 }
 
 /*
-#nav_useredit, #nav_logout, #nav_invite, #nav_donate, #nav_store {
+#nav_useredit, #nav_ut, #nav_invite, #nav_donate, #nav_store {
     opacity: 0;
     transition: opacity .25s ease-in-out;
     -webkit-transition: opacity .25s ease-in-out;
