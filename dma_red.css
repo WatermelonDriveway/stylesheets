@@ -681,13 +681,13 @@ ul.collage_images li:before {
   top: 0;
   left: 0;
   z-index: 5;
-  margin: 8px 0 0 50px;
+  margin: 8px 0 0 0;
   padding: 0;
-  width: 113px;
+  width: 300px;
   height: 30px;
   background-image: url('https://dl.dropbox.com/s/joj4w7s5mk4cakc/redacted.png?dl=0');
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: auto 80%;
   background-position: center center;
 }
 
