@@ -316,7 +316,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 }
 
 #content h1 a:visited, #content h2 a:visited, #content h3 a:visited {
-  color: #528ba3 !important;
+  color: #914d4a !important;
 }
 
 #catalogue_number_year td:nth-child(3), #edition_title td:nth-child(3) {
