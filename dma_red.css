@@ -57,7 +57,7 @@ a, .linkbox a:hover {
 }
 
 a:hover, #content a:visited {
-  color: #456478;
+  color: #7f5e5c;
 }
 
 a img, #collage .search_form td, #requests .search_form td, #reportsv2 #reportform.create_form .layout td, #requests .box.box_votes td, #upload #whmf_offer, .filter_torrents .cat_list, .search_form .layout td {
