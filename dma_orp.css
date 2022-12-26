@@ -683,8 +683,6 @@ ul.collage_images li:before {
   z-index: 5;
   margin: 8px 0 0 50px;
   padding: 0;
-  width: 113px;
-  height: 30px;
   background-image: url('https://ptpimg.me/s2kmii.png');
   background-repeat: no-repeat;
   background-size: auto 80%;
