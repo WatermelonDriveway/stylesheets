@@ -687,7 +687,7 @@ ul.collage_images li:before {
   height: 30px;
   background-image: url('https://ptpimg.me/s2kmii.png');
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: auto 80%;
   background-position: center center;
 }
 
