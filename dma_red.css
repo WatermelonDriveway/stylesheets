@@ -52,7 +52,7 @@ li {
 }
 
 a, .linkbox a:hover {
-  color: #528ba3;
+  color: #914d4a;
   text-decoration: none;
 }
 
@@ -974,7 +974,7 @@ ul.collage_images li:before {
 }
 
 #torrent_table tr.group:hover img, #discog_table tr.discog:hover img, .torrent_table.cats.numbering.border tr.torrent:hover img, .torrent_table tr.torrent_row:hover img, .torrent_table tr.torrent:hover img {
-  border: 2px solid #528BA3 !important;
+  border: 2px solid #528AB3 !important;
   opacity: 1 !important;
   transition: opacity .25s ease-in-out;
   -webkit-transition: opacity .25s ease-in-out;
@@ -1132,7 +1132,7 @@ ul.collage_images li:before {
 }
 
 #userinfo_username a.username {
-  color: #528ba3;
+  color: #914d4a;
   font-weight: normal;
   font-size: 13px;
 }
