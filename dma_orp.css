@@ -681,11 +681,13 @@ ul.collage_images li:before {
   top: 0;
   left: 0;
   z-index: 5;
-  margin: 8px 0 0 50px;
+  margin: 8px 0 0 -28px;
   padding: 0;
+  width: 300px;
+  height: 30px;
   background-image: url('https://ptpimg.me/s2kmii.png');
   background-repeat: no-repeat;
-  background-size: auto 70%;
+  background-size: auto 100%;
   background-position: center center;
 }
 
